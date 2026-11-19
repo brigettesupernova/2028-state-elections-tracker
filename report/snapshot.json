@@ -1,0 +1,567 @@
+{
+  "Governor": {
+    "summary": "There are 11 gubernatorial offices on the ballot in 2028. These elections are in Delaware , Indiana , Missouri , Montana , New Hampshire , North Carolina , North Dakota , Utah , Vermont , Washington , and West Virginia .",
+    "rows": [
+      {
+        "Category": "Governor",
+        "State": "Delaware",
+        "Contest or measure": "Governor",
+        "Date": "November 7, 2028",
+        "Status": "Regular election",
+        "Details": "",
+        "Source": "https://ballotpedia.org/Delaware_gubernatorial_election,_2028"
+      },
+      {
+        "Category": "Governor",
+        "State": "Indiana",
+        "Contest or measure": "Governor",
+        "Date": "November 7, 2028",
+        "Status": "Regular election",
+        "Details": "",
+        "Source": "https://ballotpedia.org/Indiana_gubernatorial_and_lieutenant_gubernatorial_election,_2028"
+      },
+      {
+        "Category": "Governor",
+        "State": "Missouri",
+        "Contest or measure": "Governor",
+        "Date": "November 7, 2028",
+        "Status": "Regular election",
+        "Details": "",
+        "Source": "https://ballotpedia.org/Missouri_gubernatorial_election,_2028"
+      },
+      {
+        "Category": "Governor",
+        "State": "Montana",
+        "Contest or measure": "Governor",
+        "Date": "November 7, 2028",
+        "Status": "Regular election",
+        "Details": "",
+        "Source": "https://ballotpedia.org/Montana_gubernatorial_and_lieutenant_gubernatorial_election,_2028"
+      },
+      {
+        "Category": "Governor",
+        "State": "New Hampshire",
+        "Contest or measure": "Governor",
+        "Date": "November 7, 2028",
+        "Status": "Regular election",
+        "Details": "",
+        "Source": "https://ballotpedia.org/New_Hampshire_gubernatorial_election,_2028"
+      },
+      {
+        "Category": "Governor",
+        "State": "North Carolina",
+        "Contest or measure": "Governor",
+        "Date": "November 7, 2028",
+        "Status": "Regular election",
+        "Details": "",
+        "Source": "https://ballotpedia.org/North_Carolina_gubernatorial_election,_2028"
+      },
+      {
+        "Category": "Governor",
+        "State": "North Dakota",
+        "Contest or measure": "Governor",
+        "Date": "November 7, 2028",
+        "Status": "Regular election",
+        "Details": "",
+        "Source": "https://ballotpedia.org/North_Dakota_gubernatorial_and_lieutenant_gubernatorial_election,_2028"
+      },
+      {
+        "Category": "Governor",
+        "State": "Utah",
+        "Contest or measure": "Governor",
+        "Date": "November 7, 2028",
+        "Status": "Regular election",
+        "Details": "",
+        "Source": "https://ballotpedia.org/Utah_gubernatorial_and_lieutenant_gubernatorial_election,_2028"
+      },
+      {
+        "Category": "Governor",
+        "State": "Vermont",
+        "Contest or measure": "Governor",
+        "Date": "November 7, 2028",
+        "Status": "Regular election",
+        "Details": "",
+        "Source": "https://ballotpedia.org/Vermont_gubernatorial_election,_2028"
+      },
+      {
+        "Category": "Governor",
+        "State": "Washington",
+        "Contest or measure": "Governor",
+        "Date": "November 7, 2028",
+        "Status": "Regular election",
+        "Details": "",
+        "Source": "https://ballotpedia.org/Washington_gubernatorial_election,_2028"
+      },
+      {
+        "Category": "Governor",
+        "State": "West Virginia",
+        "Contest or measure": "Governor",
+        "Date": "November 7, 2028",
+        "Status": "Regular election",
+        "Details": "",
+        "Source": "https://ballotpedia.org/West_Virginia_gubernatorial_election,_2028"
+      }
+    ],
+    "source": "https://ballotpedia.org/Gubernatorial_elections,_2028",
+    "updated": "2026-11-19 23:39"
+  },
+  "Legislature": {
+    "summary": "In the 50 states, there are 99 state legislative chambers altogether. Across 44 states, 85 of those chambers are holding regular legislative elections in 2028. The general election for state legislative races is on November 7, 2028 .",
+    "rows": [],
+    "source": "https://ballotpedia.org/State_legislative_elections,_2028",
+    "updated": "2026-11-19 23:39"
+  },
+  "Executive": {
+    "summary": "State executive offices up for election in 2028 include 11 gubernatorial seats , 9 lieutenant gubernatorial seats , 10 attorney general seats , and 7 secretary of state seats . Including down-ballot races, there are 127 state executive offices up for election across 28 states in 2028.",
+    "rows": [
+      {
+        "Category": "Executive",
+        "State": "Missouri",
+        "Contest or measure": "Governor of Missouri",
+        "Date": "",
+        "Status": "Candidacy Declared General",
+        "Details": "Mike Kehoe Incumbent · Republican",
+        "Source": "https://ballotpedia.org/State_executive_official_elections,_2028"
+      },
+      {
+        "Category": "Executive",
+        "State": "North Carolina",
+        "Contest or measure": "Governor of North Carolina",
+        "Date": "",
+        "Status": "Candidacy Declared General",
+        "Details": "Robert Burns · Republican",
+        "Source": "https://ballotpedia.org/State_executive_official_elections,_2028"
+      },
+      {
+        "Category": "Executive",
+        "State": "Washington",
+        "Contest or measure": "Governor of Washington",
+        "Date": "",
+        "Status": "Candidacy Declared General",
+        "Details": "Bob Ferguson Incumbent · Democratic",
+        "Source": "https://ballotpedia.org/State_executive_official_elections,_2028"
+      },
+      {
+        "Category": "Executive",
+        "State": "Washington",
+        "Contest or measure": "Governor of Washington",
+        "Date": "",
+        "Status": "Candidacy Declared General",
+        "Details": "Ethan Brunton · Republican",
+        "Source": "https://ballotpedia.org/State_executive_official_elections,_2028"
+      },
+      {
+        "Category": "Executive",
+        "State": "Washington",
+        "Contest or measure": "Governor of Washington",
+        "Date": "",
+        "Status": "Candidacy Declared General",
+        "Details": "Ambra Mason · Constitution Party",
+        "Source": "https://ballotpedia.org/State_executive_official_elections,_2028"
+      },
+      {
+        "Category": "Executive",
+        "State": "North Carolina",
+        "Contest or measure": "Lieutenant Governor of North Carolina",
+        "Date": "",
+        "Status": "Candidacy Declared General",
+        "Details": "Josh McConkey · Republican",
+        "Source": "https://ballotpedia.org/State_executive_official_elections,_2028"
+      },
+      {
+        "Category": "Executive",
+        "State": "Washington",
+        "Contest or measure": "Lieutenant Governor of Washington",
+        "Date": "",
+        "Status": "Candidacy Declared General",
+        "Details": "Denny Heck Incumbent · Democratic",
+        "Source": "https://ballotpedia.org/State_executive_official_elections,_2028"
+      },
+      {
+        "Category": "Executive",
+        "State": "Washington",
+        "Contest or measure": "Attorney General of Washington",
+        "Date": "",
+        "Status": "Candidacy Declared General",
+        "Details": "Nick Brown Incumbent · Democratic",
+        "Source": "https://ballotpedia.org/State_executive_official_elections,_2028"
+      },
+      {
+        "Category": "Executive",
+        "State": "Washington",
+        "Contest or measure": "Washington Secretary of State",
+        "Date": "",
+        "Status": "Candidacy Declared General",
+        "Details": "Steve Hobbs Incumbent · Democratic",
+        "Source": "https://ballotpedia.org/State_executive_official_elections,_2028"
+      }
+    ],
+    "source": "https://ballotpedia.org/State_executive_official_elections,_2028",
+    "updated": "2026-11-19 23:39"
+  },
+  "Supreme court": {
+    "summary": "As of research conducted in 2025, thirty-two states are holding state supreme court elections in 2028. In total, 77 of the 344 seats on state supreme courts are up for election. The number of seats up for election may change due to resignations and appointments. Of these seats:",
+    "rows": [
+      {
+        "Category": "Supreme court",
+        "State": "Alabama",
+        "Contest or measure": "State supreme court",
+        "Date": "November 7, 2028",
+        "Status": "",
+        "Details": "3 seat(s) · Partisan",
+        "Source": "https://ballotpedia.org/State_supreme_court_elections,_2028"
+      },
+      {
+        "Category": "Supreme court",
+        "State": "Alaska",
+        "Contest or measure": "State supreme court",
+        "Date": "November 7, 2028",
+        "Status": "",
+        "Details": "1 seat(s) · Retention",
+        "Source": "https://ballotpedia.org/State_supreme_court_elections,_2028"
+      },
+      {
+        "Category": "Supreme court",
+        "State": "Arizona",
+        "Contest or measure": "State supreme court",
+        "Date": "November 7, 2028",
+        "Status": "",
+        "Details": "4 seat(s) · Retention",
+        "Source": "https://ballotpedia.org/State_supreme_court_elections,_2028"
+      },
+      {
+        "Category": "Supreme court",
+        "State": "Arkansas",
+        "Contest or measure": "State supreme court",
+        "Date": "March 7, 2028",
+        "Status": "",
+        "Details": "1 seat(s) · Nonpartisan",
+        "Source": "https://ballotpedia.org/State_supreme_court_elections,_2028"
+      },
+      {
+        "Category": "Supreme court",
+        "State": "Colorado",
+        "Contest or measure": "State supreme court",
+        "Date": "November 7, 2028",
+        "Status": "",
+        "Details": "2 seat(s) · Retention",
+        "Source": "https://ballotpedia.org/State_supreme_court_elections,_2028"
+      },
+      {
+        "Category": "Supreme court",
+        "State": "Florida",
+        "Contest or measure": "State supreme court",
+        "Date": "November 7, 2028",
+        "Status": "",
+        "Details": "4 seat(s) · Retention",
+        "Source": "https://ballotpedia.org/State_supreme_court_elections,_2028"
+      },
+      {
+        "Category": "Supreme court",
+        "State": "Georgia",
+        "Contest or measure": "State supreme court",
+        "Date": "May 23, 2028",
+        "Status": "",
+        "Details": "3 seat(s) · Nonpartisan",
+        "Source": "https://ballotpedia.org/State_supreme_court_elections,_2028"
+      },
+      {
+        "Category": "Supreme court",
+        "State": "Idaho",
+        "Contest or measure": "State supreme court",
+        "Date": "May 16, 2028",
+        "Status": "",
+        "Details": "2 seat(s) · Nonpartisan",
+        "Source": "https://ballotpedia.org/State_supreme_court_elections,_2028"
+      },
+      {
+        "Category": "Supreme court",
+        "State": "Illinois",
+        "Contest or measure": "State supreme court",
+        "Date": "November 7, 2028",
+        "Status": "",
+        "Details": "1 seat(s) · Partisan and retention",
+        "Source": "https://ballotpedia.org/State_supreme_court_elections,_2028"
+      },
+      {
+        "Category": "Supreme court",
+        "State": "Indiana",
+        "Contest or measure": "State supreme court",
+        "Date": "November 7, 2028",
+        "Status": "",
+        "Details": "1 seat(s) · Retention",
+        "Source": "https://ballotpedia.org/State_supreme_court_elections,_2028"
+      },
+      {
+        "Category": "Supreme court",
+        "State": "Iowa",
+        "Contest or measure": "State supreme court",
+        "Date": "November 7, 2028",
+        "Status": "",
+        "Details": "4 seat(s) · Retention",
+        "Source": "https://ballotpedia.org/State_supreme_court_elections,_2028"
+      },
+      {
+        "Category": "Supreme court",
+        "State": "Kansas",
+        "Contest or measure": "State supreme court",
+        "Date": "November 7, 2028",
+        "Status": "",
+        "Details": "5 seat(s) · Retention",
+        "Source": "https://ballotpedia.org/State_supreme_court_elections,_2028"
+      },
+      {
+        "Category": "Supreme court",
+        "State": "Kentucky",
+        "Contest or measure": "State supreme court",
+        "Date": "November 7, 2028",
+        "Status": "",
+        "Details": "1 seat(s) · Nonpartisan",
+        "Source": "https://ballotpedia.org/State_supreme_court_elections,_2028"
+      },
+      {
+        "Category": "Supreme court",
+        "State": "Louisiana",
+        "Contest or measure": "State supreme court",
+        "Date": "November 7, 2028",
+        "Status": "",
+        "Details": "2 seat(s) · Partisan",
+        "Source": "https://ballotpedia.org/State_supreme_court_elections,_2028"
+      },
+      {
+        "Category": "Supreme court",
+        "State": "Michigan",
+        "Contest or measure": "State supreme court",
+        "Date": "November 7, 2028",
+        "Status": "",
+        "Details": "1 seat(s) · Partisan",
+        "Source": "https://ballotpedia.org/State_supreme_court_elections,_2028"
+      },
+      {
+        "Category": "Supreme court",
+        "State": "Minnesota",
+        "Contest or measure": "State supreme court",
+        "Date": "November 7, 2028",
+        "Status": "",
+        "Details": "3 seat(s) · Nonpartisan",
+        "Source": "https://ballotpedia.org/State_supreme_court_elections,_2028"
+      },
+      {
+        "Category": "Supreme court",
+        "State": "Mississippi",
+        "Contest or measure": "State supreme court",
+        "Date": "November 7, 2028",
+        "Status": "",
+        "Details": "4 seat(s) · Nonpartisan",
+        "Source": "https://ballotpedia.org/State_supreme_court_elections,_2028"
+      },
+      {
+        "Category": "Supreme court",
+        "State": "Montana",
+        "Contest or measure": "State supreme court",
+        "Date": "November 7, 2028",
+        "Status": "",
+        "Details": "2 seat(s) · Nonpartisan",
+        "Source": "https://ballotpedia.org/State_supreme_court_elections,_2028"
+      },
+      {
+        "Category": "Supreme court",
+        "State": "Nebraska",
+        "Contest or measure": "State supreme court",
+        "Date": "November 7, 2028",
+        "Status": "",
+        "Details": "5 seat(s) · Retention",
+        "Source": "https://ballotpedia.org/State_supreme_court_elections,_2028"
+      },
+      {
+        "Category": "Supreme court",
+        "State": "Nevada",
+        "Contest or measure": "State supreme court",
+        "Date": "November 7, 2028",
+        "Status": "",
+        "Details": "2 seat(s) · Nonpartisan",
+        "Source": "https://ballotpedia.org/State_supreme_court_elections,_2028"
+      },
+      {
+        "Category": "Supreme court",
+        "State": "New Mexico",
+        "Contest or measure": "State supreme court",
+        "Date": "November 7, 2028",
+        "Status": "",
+        "Details": "1 seat(s) · Retention",
+        "Source": "https://ballotpedia.org/State_supreme_court_elections,_2028"
+      },
+      {
+        "Category": "Supreme court",
+        "State": "North Carolina",
+        "Contest or measure": "State supreme court",
+        "Date": "November 7, 2028",
+        "Status": "",
+        "Details": "3 seat(s) · Partisan",
+        "Source": "https://ballotpedia.org/State_supreme_court_elections,_2028"
+      },
+      {
+        "Category": "Supreme court",
+        "State": "North Dakota",
+        "Contest or measure": "State supreme court",
+        "Date": "November 7, 2028",
+        "Status": "",
+        "Details": "2 seat(s) · Nonpartisan",
+        "Source": "https://ballotpedia.org/State_supreme_court_elections,_2028"
+      },
+      {
+        "Category": "Supreme court",
+        "State": "Ohio",
+        "Contest or measure": "State supreme court",
+        "Date": "November 7, 2028",
+        "Status": "",
+        "Details": "3 seat(s) · Partisan",
+        "Source": "https://ballotpedia.org/State_supreme_court_elections,_2028"
+      },
+      {
+        "Category": "Supreme court",
+        "State": "Oklahoma",
+        "Contest or measure": "State supreme court",
+        "Date": "November 7, 2028",
+        "Status": "",
+        "Details": "4 seat(s) · Retention",
+        "Source": "https://ballotpedia.org/State_supreme_court_elections,_2028"
+      },
+      {
+        "Category": "Supreme court",
+        "State": "Oregon",
+        "Contest or measure": "State supreme court",
+        "Date": "November 7, 2028",
+        "Status": "",
+        "Details": "1 seat(s) · Nonpartisan",
+        "Source": "https://ballotpedia.org/State_supreme_court_elections,_2028"
+      },
+      {
+        "Category": "Supreme court",
+        "State": "South Dakota",
+        "Contest or measure": "State supreme court",
+        "Date": "November 7, 2028",
+        "Status": "",
+        "Details": "1 seat(s) · Retention",
+        "Source": "https://ballotpedia.org/State_supreme_court_elections,_2028"
+      },
+      {
+        "Category": "Supreme court",
+        "State": "Texas",
+        "Contest or measure": "State supreme court",
+        "Date": "November 7, 2028",
+        "Status": "",
+        "Details": "6 seat(s) · Partisan",
+        "Source": "https://ballotpedia.org/State_supreme_court_elections,_2028"
+      },
+      {
+        "Category": "Supreme court",
+        "State": "Washington",
+        "Contest or measure": "State supreme court",
+        "Date": "November 7, 2028",
+        "Status": "",
+        "Details": "3 seat(s) · Nonpartisan",
+        "Source": "https://ballotpedia.org/State_supreme_court_elections,_2028"
+      },
+      {
+        "Category": "Supreme court",
+        "State": "West Virginia",
+        "Contest or measure": "State supreme court",
+        "Date": "November 7, 2028",
+        "Status": "",
+        "Details": "1 seat(s) · Nonpartisan",
+        "Source": "https://ballotpedia.org/State_supreme_court_elections,_2028"
+      },
+      {
+        "Category": "Supreme court",
+        "State": "Wisconsin",
+        "Contest or measure": "State supreme court",
+        "Date": "April 4, 2028",
+        "Status": "",
+        "Details": "1 seat(s) · Nonpartisan",
+        "Source": "https://ballotpedia.org/State_supreme_court_elections,_2028"
+      },
+      {
+        "Category": "Supreme court",
+        "State": "Wyoming",
+        "Contest or measure": "State supreme court",
+        "Date": "November 7, 2028",
+        "Status": "",
+        "Details": "2 seat(s) · Retention",
+        "Source": "https://ballotpedia.org/State_supreme_court_elections,_2028"
+      }
+    ],
+    "source": "https://ballotpedia.org/State_supreme_court_elections,_2028",
+    "updated": "2026-11-19 23:39"
+  },
+  "Ballot measure": {
+    "summary": "As of November 18, 2026, seven statewide ballot measures were certified for the ballot in five states for elections in 2028.",
+    "rows": [
+      {
+        "Category": "Ballot measure",
+        "State": "California",
+        "Contest or measure": "Limit Public Education Affirmative Action Ban to Higher Education Admissions and Enrollment Amendment",
+        "Date": "November 7, 2028",
+        "Status": "Qualified for ballot",
+        "Details": "Affirmative action · Remove higher education admissions and enrollment from the list of state operations that are expressly prohibited from engaging in racial discrimination or granting race-based preferential treatment",
+        "Source": "https://ballotpedia.org/California_Limit_Public_Education_Affirmative_Action_Ban_to_Higher_Education_Admissions_and_Enrollment_Amendment_(2028)"
+      },
+      {
+        "Category": "Ballot measure",
+        "State": "California",
+        "Contest or measure": "University of California Staff First-Time Homebuyer Down Payment Loan Program Initiative",
+        "Date": "November 7, 2028",
+        "Status": "Qualified for ballot",
+        "Details": "Housing assistance programs ; Higher education governance · Create a first time homebuyer downpayment loan program for qualifying staff of state universities",
+        "Source": "https://ballotpedia.org/California_University_of_California_Staff_First-Time_Homebuyer_Down_Payment_Loan_Program_Initiative_(2028)"
+      },
+      {
+        "Category": "Ballot measure",
+        "State": "California",
+        "Contest or measure": "Science and Health Research Bond Measure",
+        "Date": "March 7, 2028",
+        "Status": "Qualified for ballot",
+        "Details": "Bond issues · Issue $7.5 billion in bonds to fund grants, make loans, and enter contracts with public and private research entities for scientific and health research and development",
+        "Source": "https://ballotpedia.org/California_Science_and_Health_Research_Bond_Measure_(March_2028)"
+      },
+      {
+        "Category": "Ballot measure",
+        "State": "Connecticut",
+        "Contest or measure": "Constitutional Convention Question",
+        "Date": "November 7, 2028",
+        "Status": "Qualified for ballot",
+        "Details": "State constitutional conventions · Asks voters whether a constitutional convention shall be held to propose a revision or amendments to the constitution",
+        "Source": "https://ballotpedia.org/Connecticut_Constitutional_Convention_Question_(2028)"
+      },
+      {
+        "Category": "Ballot measure",
+        "State": "Hawaii",
+        "Contest or measure": "Constitutional Convention Question",
+        "Date": "November 7, 2028",
+        "Status": "Qualified for ballot",
+        "Details": "State constitutional conventions · Asks voters whether a constitutional convention shall be held to propose a revision or amendments to the constitution",
+        "Source": "https://ballotpedia.org/Hawaii_Constitutional_Convention_Question_(2028)"
+      },
+      {
+        "Category": "Ballot measure",
+        "State": "Illinois",
+        "Contest or measure": "Constitutional Convention Question",
+        "Date": "November 7, 2028",
+        "Status": "Qualified for ballot",
+        "Details": "State constitutional conventions · Asks voters whether a constitutional convention shall be held to propose a revision or amendments to the constitution",
+        "Source": "https://ballotpedia.org/Illinois_Constitutional_Convention_Question_(2028)"
+      },
+      {
+        "Category": "Ballot measure",
+        "State": "Massachusetts",
+        "Contest or measure": "Abortion Regulations After 24 Weeks' Gestation Referendum",
+        "Date": "November 7, 2028",
+        "Status": "Qualified for ballot",
+        "Details": "Abortion policy · Repeal Massachusetts House Bill 5595, which removes restrictions on abortions after 24 weeks gestation",
+        "Source": "https://ballotpedia.org/Massachusetts_Abortion_Regulations_After_24_Weeks%27_Gestation_Referendum_(2028)"
+      }
+    ],
+    "source": "https://ballotpedia.org/2028_ballot_measures",
+    "updated": "2026-11-19 23:39"
+  }
+}
